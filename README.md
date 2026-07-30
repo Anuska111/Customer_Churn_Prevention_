@@ -9,6 +9,9 @@
 
 Predict customer churn using Machine Learning and uncover the key business factors driving customer attrition. This project leverages **Decision Tree** and **Random Forest** classifiers to identify customers at risk of leaving, helping businesses take proactive retention measures through data-driven insights.
 
+<img width="1080" height="842" alt="image" src="https://github.com/user-attachments/assets/73f8ca05-7166-41d0-8749-f02be4444118" />
+<img width="1080" height="414" alt="image" src="https://github.com/user-attachments/assets/8963e395-e711-41e8-9e68-584199483a38" />
+
 ---
 
 ## 🎯 Project Objectives
@@ -190,6 +193,9 @@ pip install -r requirements.txt
 * Address class imbalance using SMOTE
 * Deploy the model with Streamlit or Flask
 * Real-time customer churn prediction dashboard
+<img width="1080" height="842" alt="image" src="https://github.com/user-attachments/assets/8a0c39a8-6602-4b09-93e1-11e288db9a7f" /><img width="1080" height="843" alt="image" src="https://github.com/user-attachments/assets/0519ceca-f9ff-4cc4-ad90-81b793037227" /><img width="1079" height="503" alt="image" src="https://github.com/user-attachments/assets/c51fd055-74cb-422c-adcd-e9b09eb0cd9f" />
+
+
 
 ---
 
