@@ -82,21 +82,11 @@ Visualizations created using **Matplotlib** helped identify important trends and
 
 | Metric            |      Score |
 | ----------------- | ---------: |
-| **Accuracy**      | **79.49%** |
-| **Precision**     | **64.71%** |
-| **Recall**        | **50.00%** |
-| **F1-Score**      | **56.41%** |
-| **ROC-AUC Score** | **83.85%** |
-
-### Performance Summary
-
-* **Accuracy:** Correctly classified nearly **8 out of 10** customers.
-* **Precision:** Approximately **65%** of predicted churn customers actually churned.
-* **Recall:** Successfully identified **50%** of actual churn cases.
-* **F1-Score:** Balanced precision and recall for reliable classification performance.
-* **ROC-AUC:** Achieved **83.85%**, indicating strong ability to distinguish between churn and non-churn customers.
-
----
+| **Accuracy**      | **76.30%** |
+| **Precision**     | **53.91%** |
+| **Recall**        | **73.80%** |
+| **F1-Score**      | **62.30%** |
+| **ROC-AUC Score** | **83.67%** |
 
 ## 🔍 Feature Importance
 
